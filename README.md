@@ -6,7 +6,7 @@
   
   >[Activation Functions](https://github.com/abhishek96negi/Deep-Learning/blob/master/ANN/Activation%20Functions.ipynb)
   
-  >[Loss function](https://github.com/abhishek96negi/Deep-Learning/blob/main/ANN/Loss%20function.ipynb)
+  >[Loss function](https://github.com/abhishek96negi/Deep-Learning/blob/master/ANN/Loss%20function.ipynb)
   
   >[Optimizers](https://github.com/abhishek96negi/Deep-Learning/blob/main/ANN/Optimizers.ipynb)
   
