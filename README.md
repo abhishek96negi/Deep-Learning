@@ -1,8 +1,8 @@
 # Deep Learning
 
-## [Artificial neural network](https://github.com/abhishek96negi/Deep-Learning/tree/main/ANN)
+## [Artificial neural network](https://github.com/abhishek96negi/Deep-Learning/tree/master/ANN)
   
-  >[Intro to Deep Learning](https://github.com/abhishek96negi/Deep-Learning/blob/main/ANN/Intro%20to%20Deep%20Learning.ipynb)
+  >[Intro to Deep Learning](https://github.com/abhishek96negi/Deep-Learning/blob/master/ANN/Intro%20to%20Deep%20Learning.ipynb)
   
   >[Activation Functions](https://github.com/abhishek96negi/Deep-Learning/blob/main/ANN/Activation%20Functions.ipynb)
   
