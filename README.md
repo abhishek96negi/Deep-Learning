@@ -4,7 +4,7 @@
   
   >[Intro to Deep Learning](https://github.com/abhishek96negi/Deep-Learning/blob/master/ANN/Intro%20to%20Deep%20Learning.ipynb)
   
-  >[Activation Functions](https://github.com/abhishek96negi/Deep-Learning/blob/main/ANN/Activation%20Functions.ipynb)
+  >[Activation Functions](https://github.com/abhishek96negi/Deep-Learning/blob/master/ANN/Activation%20Functions.ipynb)
   
   >[Loss function](https://github.com/abhishek96negi/Deep-Learning/blob/main/ANN/Loss%20function.ipynb)
   
