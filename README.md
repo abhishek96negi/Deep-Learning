@@ -8,7 +8,7 @@
   
   >[Loss function](https://github.com/abhishek96negi/Deep-Learning/blob/master/ANN/Loss%20function.ipynb)
   
-  >[Optimizers](https://github.com/abhishek96negi/Deep-Learning/blob/main/ANN/Optimizers.ipynb)
+  >[Optimizers](https://github.com/abhishek96negi/Deep-Learning/blob/master/ANN/Optimizers.ipynb)
   
 ## [Convolutional Neural Network](https://github.com/abhishek96negi/Deep-Learning/tree/main/CNN)
 
