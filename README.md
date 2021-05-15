@@ -44,33 +44,26 @@
   
    1. [Fashion mnist](https://github.com/abhishek96negi/Deep-Learning/blob/master/Framework/Tensor%20Flow/Example/Fashion%20mnist.ipynb)
 
-## [Object Detection](https://github.com/abhishek96negi/Deep-Learning/tree/main/Object%20Detection)
-
-  >[RCNN](https://github.com/abhishek96negi/Deep-Learning/tree/main/Object%20Detection/RCNN)
-    
-   1. [Faster RCNN](https://github.com/abhishek96negi/Deep-Learning/blob/main/Object%20Detection/RCNN/Faster%20RCNN.ipynb)
-  
-  >[YOLO](https://github.com/abhishek96negi/Deep-Learning/tree/main/Object%20Detection/YOLO)
-  
-   * [YOLO Explanation PDF](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    
-   1. [YOLOV1](https://github.com/abhishek96negi/Deep-Learning/blob/main/Object%20Detection/YOLO/YOLOV1.ipynb)
-   
-   2. [YOLOV2](https://github.com/abhishek96negi/Deep-Learning/blob/main/Object%20Detection/YOLO/YOLOV2.ipynb)
-   
-   3. [YOLOV3](https://github.com/abhishek96negi/Deep-Learning/blob/main/Object%20Detection/YOLO/YOLOV3.ipynb)
-   
-   4. [Comparison of YOLO1, YOLO2, and YOLO3](https://github.com/abhishek96negi/Deep-Learning/blob/main/Object%20Detection/YOLO/Comparison%20of%20YOLO1%2C%20YOLO2%2C%20and%20YOLO3.ipynb)
-   
- >[SDD](https://github.com/abhishek96negi/Deep-Learning/tree/main/Object%20Detection/SSD)
-    
-   1. [SSD Notebook](https://github.com/abhishek96negi/Deep-Learning/blob/main/Object%20Detection/SSD/SSD.ipynb)
-
- >[Mask RCNN](https://github.com/abhishek96negi/Deep-Learning/tree/main/Object%20Detection/Mask%20RCNN)
-    
-   1. [Mask RCNN Notebook](https://github.com/abhishek96negi/Deep-Learning/blob/main/Object%20Detection/Mask%20RCNN/Mask_RCNN.ipynb)
-
 ## [PyTorch](https://github.com/abhishek96negi/Deep-Learning/blob/master/Framework/PyTorch/PyTorch.ipynb)
 
 ## [Mxnet](https://github.com/abhishek96negi/Deep-Learning/blob/master/Framework/Mxnet/mxnet.ipynb)
 
+## [Object Detection](https://github.com/abhishek96negi/Deep-Learning/tree/master/Object%20Detection)
+
+  >[RCNN](https://github.com/abhishek96negi/Deep-Learning/blob/master/Object%20Detection/RCNN/Faster%20RCNN.ipynb)
+  
+  >[YOLO](https://github.com/abhishek96negi/Deep-Learning/tree/master/Object%20Detection/YOLO)
+  
+   * [YOLO Explanation PDF](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    
+   1. [YOLOV1](https://github.com/abhishek96negi/Deep-Learning/blob/master/Object%20Detection/YOLO/YOLOV1.ipynb)
+   
+   2. [YOLOV2](https://github.com/abhishek96negi/Deep-Learning/blob/master/Object%20Detection/YOLO/YOLOV2.ipynb)
+   
+   3. [YOLOV3](https://github.com/abhishek96negi/Deep-Learning/blob/master/Object%20Detection/YOLO/YOLOV3.ipynb)
+   
+   4. [Comparison of YOLO1, YOLO2, and YOLO3](https://github.com/abhishek96negi/Deep-Learning/blob/master/Object%20Detection/YOLO/Comparison%20of%20YOLO1%2C%20YOLO2%2C%20and%20YOLO3.ipynb)
+   
+ >[SDD](https://github.com/abhishek96negi/Deep-Learning/blob/master/Object%20Detection/SSD/SSD.ipynb)
+
+ >[Mask RCNN](https://github.com/abhishek96negi/Deep-Learning/blob/master/Object%20Detection/Mask%20RCNN/Mask_RCNN.ipynb)
