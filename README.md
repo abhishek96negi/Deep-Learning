@@ -32,17 +32,17 @@
   
   >[Data Augmentation](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/Data%20Augmentation/Augmentor.ipynb)
   
-## [TensorFlow](https://github.com/abhishek96negi/Deep-Learning/tree/main/Tensor%20Flow)
+## [TensorFlow](https://github.com/abhishek96negi/Deep-Learning/tree/master/Framework/Tensor%20Flow)
   
-  >[Introduction](https://github.com/abhishek96negi/Deep-Learning/blob/main/Tensor%20Flow/Intro%20to%20Tensorflow.ipynb)
+  >[Introduction](https://github.com/abhishek96negi/Deep-Learning/blob/master/Framework/Tensor%20Flow/Intro%20to%20Tensorflow.ipynb)
   
-  >[Tensorflow 1.X](https://github.com/abhishek96negi/Deep-Learning/blob/main/Tensor%20Flow/Tensorflow%201.1.ipynb)
+  >[Tensorflow 1.X](https://github.com/abhishek96negi/Deep-Learning/blob/master/Framework/Tensor%20Flow/Tensorflow%201.1.ipynb)
   
-  >[Tensorflow 2.X](https://github.com/abhishek96negi/Deep-Learning/blob/main/Tensor%20Flow/Tensorflow%202.ipynb)
+  >[Tensorflow 2.X](https://github.com/abhishek96negi/Deep-Learning/blob/master/Framework/Tensor%20Flow/Tensorflow%202.ipynb)
   
-  >[Example](https://github.com/abhishek96negi/Deep-Learning/tree/main/Tensor%20Flow/Example)
+  >[Example](https://github.com/abhishek96negi/Deep-Learning/tree/master/Framework/Tensor%20Flow/Example)
   
-   1. [Fashion mnist](https://github.com/abhishek96negi/Deep-Learning/blob/main/Tensor%20Flow/Example/Fashion%20mnist.ipynb)
+   1. [Fashion mnist](https://github.com/abhishek96negi/Deep-Learning/blob/master/Framework/Tensor%20Flow/Example/Fashion%20mnist.ipynb)
 
 ## [Object Detection](https://github.com/abhishek96negi/Deep-Learning/tree/main/Object%20Detection)
 
@@ -70,6 +70,7 @@
     
    1. [Mask RCNN Notebook](https://github.com/abhishek96negi/Deep-Learning/blob/main/Object%20Detection/Mask%20RCNN/Mask_RCNN.ipynb)
 
-## [PyTorch](https://github.com/abhishek96negi/Deep-Learning/tree/main/PyTorch)
+## [PyTorch](https://github.com/abhishek96negi/Deep-Learning/blob/master/Framework/PyTorch/PyTorch.ipynb)
 
-  >[NoteBook](https://github.com/abhishek96negi/Deep-Learning/blob/main/PyTorch/PyTorch.ipynb)
+## [Mxnet](https://github.com/abhishek96negi/Deep-Learning/blob/master/Framework/Mxnet/mxnet.ipynb)
+
