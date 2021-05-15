@@ -30,6 +30,8 @@
   
   >[Multiple Image Classifier](https://github.com/abhishek96negi/Deep-Learning/tree/main/CNN/Multiple%20Image%20Classifier)
   
+  >[Data Augmentation](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/Data%20Augmentation/Augmentor.ipynb)
+  
 ## [TensorFlow](https://github.com/abhishek96negi/Deep-Learning/tree/main/Tensor%20Flow)
   
   >[Introduction](https://github.com/abhishek96negi/Deep-Learning/blob/main/Tensor%20Flow/Intro%20to%20Tensorflow.ipynb)
