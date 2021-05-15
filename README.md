@@ -28,7 +28,7 @@
   
   >[Binary Image Classifier](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/Binary%20Image%20Classifier/Binary%20Image%20Classifier.ipynb)
   
-  >[Multiple Image Classifier](https://github.com/abhishek96negi/Deep-Learning/tree/main/CNN/Multiple%20Image%20Classifier)
+  >[Multiple Image Classifier](https://github.com/abhishek96negi/Deep-Learning/tree/master/CNN/Multiple%20Image%20Classifier)
   
   >[Data Augmentation](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/Data%20Augmentation/Augmentor.ipynb)
   
