@@ -12,19 +12,19 @@
   
 ## [Convolutional Neural Network](https://github.com/abhishek96negi/Deep-Learning/tree/master/CNN)
 
-  >[CNN Architectures](https://github.com/abhishek96negi/Deep-Learning/tree/main/CNN/CNN%20Architectures)
+  >[CNN Architectures](https://github.com/abhishek96negi/Deep-Learning/tree/master/CNN/CNN%20Architectures)
     
-   1. [Basic Convolutional Neural Network](https://github.com/abhishek96negi/Deep-Learning/blob/main/CNN/CNN%20Architectures/Convolutional%20Neural%20Network.ipynb)
+   1. [Basic Convolutional Neural Network](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/CNN%20Architectures/Convolutional%20Neural%20Network.ipynb)
     
-   2. [LeNet](https://github.com/abhishek96negi/Deep-Learning/blob/main/CNN/CNN%20Architectures/LeNet.ipynb)
+   2. [LeNet](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/CNN%20Architectures/LeNet.ipynb)
     
-   3. [Alexnet](https://github.com/abhishek96negi/Deep-Learning/blob/main/CNN/CNN%20Architectures/Alexnet.ipynb)
+   3. [Alexnet](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/CNN%20Architectures/Alexnet.ipynb)
     
-   4. [VGG](https://github.com/abhishek96negi/Deep-Learning/blob/main/CNN/CNN%20Architectures/VGG.ipynb)
+   4. [VGG](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/CNN%20Architectures/VGG.ipynb)
     
-   5. [Resnet](https://github.com/abhishek96negi/Deep-Learning/blob/main/CNN/CNN%20Architectures/Resnet.ipynb)
+   5. [Resnet](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/CNN%20Architectures/Resnet.ipynb)
     
-   6. [Inception](https://github.com/abhishek96negi/Deep-Learning/blob/main/CNN/CNN%20Architectures/Inception.ipynb)
+   6. [Inception](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/CNN%20Architectures/Inception.ipynb)
   
   >[Binary Image Classifier](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/Binary%20Image%20Classifier/Binary%20Image%20Classifier.ipynb)
   
