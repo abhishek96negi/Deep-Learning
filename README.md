@@ -10,7 +10,7 @@
   
   >[Optimizers](https://github.com/abhishek96negi/Deep-Learning/blob/master/ANN/Optimizers.ipynb)
   
-## [Convolutional Neural Network](https://github.com/abhishek96negi/Deep-Learning/tree/main/CNN)
+## [Convolutional Neural Network](https://github.com/abhishek96negi/Deep-Learning/tree/master/CNN)
 
   >[CNN Architectures](https://github.com/abhishek96negi/Deep-Learning/tree/main/CNN/CNN%20Architectures)
     
@@ -26,7 +26,7 @@
     
    6. [Inception](https://github.com/abhishek96negi/Deep-Learning/blob/main/CNN/CNN%20Architectures/Inception.ipynb)
   
-  >[Binary Image Classifier](https://github.com/abhishek96negi/Deep-Learning/blob/main/CNN/Binary%20Image%20Classifier/Binary%20Image%20Classifier.ipynb)
+  >[Binary Image Classifier](https://github.com/abhishek96negi/Deep-Learning/blob/master/CNN/Binary%20Image%20Classifier/Binary%20Image%20Classifier.ipynb)
   
   >[Multiple Image Classifier](https://github.com/abhishek96negi/Deep-Learning/tree/main/CNN/Multiple%20Image%20Classifier)
   
